@@ -1,4 +1,4 @@
-<div align="center"><img src="bx.webp" alt="Alt text" width="250"></div>
+<div align="center"><img src="bx.webp" alt="Alt text" width="200"></div>
 
 # BastionX on GitHub 🏰
 
